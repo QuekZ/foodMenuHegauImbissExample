@@ -3,7 +3,7 @@ This is a simple Food Menu made with React and Vite.
 Its displayed on a Big Monitor. It acceses the Website via the Projection with a raspberry PI3. 
 
 The Raspberry PI3 is running an autostart script that first starts the vite project with 'npx serve dist -l 5000' 
-then the chromium-browser is started with 'http://localhost:5000' to launch the menu 
+then the chromium-browser is started with 'http://localhost:5000' to launch the menu. Chromium is running in kiosk mode and the whole application can just be stopped by using the terminal
 
 The Food List was a bit long so i wrote an intervall function to let the pages change every few seconds.
 
