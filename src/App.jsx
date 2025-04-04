@@ -17,13 +17,13 @@ const App = () => {
   useEffect(() => {
     const leftInterval = setInterval(() => {
       setLeftContentIndex(prevIndex => (prevIndex + 1) % leftContents.length);
-    }, 5000); // Change every 5 seconds
+    }, 5000); 
 
     const rightInterval = setInterval(() => {
       setRightContentIndex(prevIndex => (prevIndex + 1) % rightContents.length);
-    }, 5000); // Change every 5 seconds
+    }, 5000); 
 
-    // Clean up intervals
+    
     return () => {
       clearInterval(leftInterval);
       clearInterval(rightInterval);
