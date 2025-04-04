@@ -1,5 +1,5 @@
 import React from 'react';
-import './RightContent.css'; // Import CSS file for styles
+import './RightContent.css'; 
 
 const RightContent3 = ({ content }) => {
   return (
