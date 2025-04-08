@@ -7,7 +7,7 @@ then the chromium-browser is started with 'http://localhost:5000' to launch the 
 
 The Food List was a bit long so i wrote an intervall function to let the pages change every few seconds.
 
-This is just an example and is showing the basic structure but the actual live version is in a private repo with a bit more functionality and a better structure.
+Disclaimer:[b]This is just an example and is showing the basic structure but the actual live version is in a private repo with a bit more functionality and a better structure.[/b]
 
 ![imbissMenu](https://github.com/user-attachments/assets/d8ace012-5bcc-4a61-9bdb-a247a7cbb474)
 
