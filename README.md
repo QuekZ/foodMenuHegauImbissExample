@@ -16,5 +16,5 @@ Disclaimer:This is just an example and is showing the basic structure but the ac
 ![image](https://github.com/user-attachments/assets/e1d12a1e-dc53-4b69-a021-b6280b4adcf0)
 
 
+![image](https://github.com/user-attachments/assets/20ab91ea-b080-4a66-8089-238ebda9aaba)
 
-![WhatsApp Bild 2024-09-24 um 21 57 16_a8990044](https://github.com/user-attachments/assets/7da36d7d-166f-4b13-aaa0-85dbef44e7ac)
